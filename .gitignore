@@ -1,0 +1,21 @@
+# Messy drafts not ready for commits
+drafts/
+
+# Personal notes
+personal_notes/
+
+# Temporary files
+*.tmp
+*_scratch.*
+*_draft.*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
